@@ -22,4 +22,5 @@ Delete Remove
 > Open terminal
 > mango
 
-> https://www.geeksforgeeks.org/how-to-install-mongodb-on-macos/ > https://www.youtube.com/watch?v=p2EQUrA6SjU
+> https://www.geeksforgeeks.org/how-to-install-mongodb-on-macos/
+> https://www.youtube.com/watch?v=p2EQUrA6SjU
